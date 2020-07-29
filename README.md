@@ -1,6 +1,4 @@
 # SpamOtp
-#Spam OTP Work 100℅
-Saya Mohon Jangan di recode Harga Pembuat Script nya #Terima kasih
 
 Install
 $ pkg instal php git
