@@ -9,10 +9,10 @@ termasuk ( "src / otp.php" );
 
 gema  "
 \ 033 [34m╔════════════════════════════════╗
-  \ 033 [31m⏣ \ 033 [32mAuthor \ 033 [37m: Dimas Gans
+  \ 033 [31m⏣ \ 033 [32mAuthor \ 033 [37m: st∆rz stj
   \ 033 [31m⏣ \ 033 [Tim 32mMy Saya \ 033 [37m: Program Jalanan
-  \ 033 [31m⏣ \ 033 [32mwhatsapp \ 033 [37m: 083813844572
-  \ 033 [31m⏣ \ 033 [32mCodeName \ 033 [37m: \ 033 [36mMr.Tcg_Cyber
+  \ 033 [31m⏣ \ 033 [32mwhatsapp \ 033 [37m: 081391211019
+  \ 033 [31m⏣ \ 033 [32mCodeName \ 033 [37m: \ 033 [36mMr.ST∆RZ STJ
 \ 033 [34m╚════════════════════════════════╝
 ###### SPAM SMS OTP WORK #######
   \ e [92m01 \ e [0m. Spam Otp MyPoin
@@ -24,7 +24,7 @@ gema  "
   \ e [92m07 \ e [0m. Spam Otp CodaShopTsel \ n \ n " ;
 
 coba {
-	echo  "\ e [96m [+] \ e [91mroot @ Dimas_Gans \ e [0m />" ;
+	echo  "\ e [96m [+] \ e [91mroot @ Fikri_stj \ e [0m />" ;
 	$ choice = trim ( fgets ( STDIN ));
 	$ Spam yang = baru  SimpleSpam \ Otp ();
 
