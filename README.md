@@ -6,7 +6,7 @@ Saya Mohon Jangan di recode yh Hargai Pembuat Script nya
 
 # install
 $ pkg install php git
-$ git clone https://github.com/CyberTCA/SpamOtp
+$ git clone https://github.com/fikri357/SpamOtp
 $ cd SpamOtp
 $ php SpamOtp.php
 
