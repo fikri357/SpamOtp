@@ -1,6 +1,5 @@
 # SpamOtp
-README.md
-Spam OTP Work 100℅
+#Spam OTP Work 100℅
 Saya Mohon Jangan di recode Harga Pembuat Script nya #Terima kasih
 
 Install
